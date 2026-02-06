@@ -3,7 +3,10 @@
   "python-envs.defaultPackageManager": "ms-python.python:conda",
   "python-envs.pythonProjects": [],
   "cSpell.words": [
+    "colour",
+    "ggplotly",
     "hconcat",
+    "lightgray",
     "maxbins",
     "vconcat"
   ]
