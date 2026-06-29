@@ -6,6 +6,7 @@
     "colour",
     "ggplotly",
     "hconcat",
+    "importances",
     "lightgray",
     "maxbins",
     "Pclass",
